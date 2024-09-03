@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=PPO2024;Username=postgres;Password=123456789"
+  }
+}

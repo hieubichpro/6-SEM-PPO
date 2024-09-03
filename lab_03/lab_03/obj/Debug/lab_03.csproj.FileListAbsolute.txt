@@ -1,0 +1,14 @@
+C:\Users\abcd2\OneDrive\Desktop\ppo2024\lab_03\lab_03\obj\Debug\lab_03.csproj.CoreCompileInputs.cache
+C:\Users\abcd2\OneDrive\Desktop\ppo2024\lab_03\lab_03\bin\Debug\lab_03.exe.config
+C:\Users\abcd2\OneDrive\Desktop\ppo2024\lab_03\lab_03\bin\Debug\lab_03.exe
+C:\Users\abcd2\OneDrive\Desktop\ppo2024\lab_03\lab_03\bin\Debug\lab_03.pdb
+C:\Users\abcd2\OneDrive\Desktop\ppo2024\lab_03\lab_03\obj\Debug\lab_03.exe
+C:\Users\abcd2\OneDrive\Desktop\ppo2024\lab_03\lab_03\obj\Debug\lab_03.pdb
+C:\Users\abcd2\OneDrive\Desktop\ppo2024\lab_03\lab_03\obj\Debug\lab_03.csproj.AssemblyReference.cache
+C:\Users\abcd2\OneDrive\Desktop\PPO-2024\lab_03\lab_03\bin\Debug\lab_03.exe.config
+C:\Users\abcd2\OneDrive\Desktop\PPO-2024\lab_03\lab_03\bin\Debug\lab_03.exe
+C:\Users\abcd2\OneDrive\Desktop\PPO-2024\lab_03\lab_03\bin\Debug\lab_03.pdb
+C:\Users\abcd2\OneDrive\Desktop\PPO-2024\lab_03\lab_03\obj\Debug\lab_03.csproj.CoreCompileInputs.cache
+C:\Users\abcd2\OneDrive\Desktop\PPO-2024\lab_03\lab_03\obj\Debug\lab_03.exe
+C:\Users\abcd2\OneDrive\Desktop\PPO-2024\lab_03\lab_03\obj\Debug\lab_03.pdb
+C:\Users\abcd2\OneDrive\Desktop\PPO-2024\lab_03\lab_03\obj\Debug\lab_03.csproj.AssemblyReference.cache

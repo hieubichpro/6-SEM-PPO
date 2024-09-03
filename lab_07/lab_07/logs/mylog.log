@@ -1,0 +1,221 @@
+2024-08-29 12:51:09.5354|Info|insert feedback started | 
+2024-08-29 12:51:09.5723|Info|insert feedback ended | 
+2024-08-29 12:51:12.9326|Info|insert feedback started | 
+2024-08-29 12:51:12.9357|Info|insert feedback ended | 
+2024-08-29 12:51:18.9803|Info|insert feedback started | 
+2024-08-29 12:51:18.9803|Info|insert feedback ended | 
+2024-08-29 12:55:58.8053|Info|insert feedback started | 
+2024-08-29 12:55:58.8456|Info|insert feedback ended | 
+2024-08-29 13:03:07.3167|Info|getNameClubById started | 
+2024-08-29 13:03:07.8592|Info|getNameClubById started | 
+2024-08-29 13:03:08.5721|Info|getNameClubById started | 
+2024-08-29 13:03:08.9318|Info|getNameClubById started | 
+2024-08-29 13:03:09.7155|Info|getNameClubById started | 
+2024-08-29 13:03:10.1966|Info|getNameClubById started | 
+2024-08-29 13:05:13.7653|Info|getNameClubById started | 
+2024-08-29 13:05:15.5557|Info|getNameClubById started | 
+2024-08-29 13:05:16.1798|Info|getNameClubById started | 
+2024-08-29 13:05:16.9400|Info|getNameClubById started | 
+2024-08-29 13:05:17.6119|Info|getNameClubById started | 
+2024-08-29 13:05:18.2600|Info|getNameClubById started | 
+2024-08-29 13:05:18.8519|Info|getNameClubById started | 
+2024-08-29 13:05:19.3236|Info|getNameClubById started | 
+2024-08-29 13:05:19.8515|Info|getNameClubById started | 
+2024-08-29 13:09:44.6655|Info|register started | 
+2024-08-29 13:09:45.1226|Info|register success | 
+2024-08-29 13:09:53.2811|Info|login started | 
+2024-08-29 13:09:53.3281|Info|login sucess | 
+2024-08-29 13:09:56.7970|Info|login started | 
+2024-08-29 13:09:56.7970|Info|login sucess | 
+2024-08-29 13:31:53.7037|Info|login started | 
+2024-08-29 13:31:54.1481|Error|user doesn't exists | 
+2024-08-29 13:32:56.4942|Info|login started | 
+2024-08-29 13:32:56.8406|Error|user doesn't exists | 
+2024-08-29 13:34:20.7024|Info|login started | 
+2024-08-29 13:34:21.0643|Info|login sucess | 
+2024-08-29 13:35:15.3250|Info|login started | 
+2024-08-29 13:35:15.3250|Info|login sucess | 
+2024-08-29 13:35:46.6226|Info|login started | 
+2024-08-29 13:35:46.6226|Info|login sucess | 
+2024-08-29 13:36:09.9501|Info|login started | 
+2024-08-29 13:36:10.3639|Info|login sucess | 
+2024-08-29 13:36:35.4617|Info|login started | 
+2024-08-29 13:36:35.9068|Info|login sucess | 
+2024-08-29 13:36:50.2464|Info|login started | 
+2024-08-29 13:36:50.6418|Info|login sucess | 
+2024-08-29 13:37:14.0854|Info|login started | 
+2024-08-29 13:37:14.4545|Info|login sucess | 
+2024-08-29 13:39:27.6476|Info|login started | 
+2024-08-29 13:39:28.1300|Info|login sucess | 
+2024-08-29 13:39:41.5180|Info|login started | 
+2024-08-29 13:39:41.5180|Info|login sucess | 
+2024-08-29 13:39:50.2003|Info|login started | 
+2024-08-29 13:39:50.2003|Info|login sucess | 
+2024-08-29 13:41:26.2610|Info|login started | 
+2024-08-29 13:41:26.7392|Info|login sucess | 
+2024-08-29 13:42:11.2009|Info|login started | 
+2024-08-29 13:42:11.5667|Info|login sucess | 
+2024-08-29 13:44:25.9031|Info|login started | 
+2024-08-29 13:44:26.2747|Info|login sucess | 
+2024-08-29 13:44:59.3974|Info|login started | 
+2024-08-29 13:44:59.7651|Info|login sucess | 
+2024-08-29 13:45:21.9827|Info|login started | 
+2024-08-29 13:45:22.3965|Info|login sucess | 
+2024-08-29 13:46:09.4942|Info|login started | 
+2024-08-29 13:46:09.8919|Info|login sucess | 
+2024-08-29 13:46:23.8216|Info|login started | 
+2024-08-29 13:46:24.1796|Info|login sucess | 
+2024-08-29 13:46:51.7370|Info|login started | 
+2024-08-29 13:46:52.1981|Info|login sucess | 
+2024-08-29 13:47:20.1374|Info|login started | 
+2024-08-29 13:47:20.5575|Info|login sucess | 
+2024-08-29 13:47:51.8778|Info|login started | 
+2024-08-29 13:47:52.3241|Info|login sucess | 
+2024-08-29 13:52:05.4913|Info|login started | 
+2024-08-29 13:52:05.9696|Info|login sucess | 
+2024-08-29 13:52:25.3219|Info|login started | 
+2024-08-29 13:52:25.6881|Info|login sucess | 
+2024-08-29 13:53:02.3045|Info|login started | 
+2024-08-29 13:53:02.6942|Info|login sucess | 
+2024-08-29 13:59:28.2386|Info|login started | 
+2024-08-29 13:59:28.7799|Info|login sucess | 
+2024-08-29 14:00:25.5842|Info|login started | 
+2024-08-29 14:00:26.0654|Info|login sucess | 
+2024-08-29 14:01:03.5747|Info|login started | 
+2024-08-29 14:01:03.9700|Info|login sucess | 
+2024-08-29 14:03:23.3285|Info|login started | 
+2024-08-29 14:03:23.8371|Info|login sucess | 
+2024-08-29 14:06:03.4948|Info|login started | 
+2024-08-29 14:06:03.8792|Info|login sucess | 
+2024-08-29 14:06:41.3592|Info|login started | 
+2024-08-29 14:06:41.8629|Info|login sucess | 
+2024-08-29 14:09:24.9033|Info|login started | 
+2024-08-29 14:09:25.5152|Info|login sucess | 
+2024-08-29 14:09:27.7230|Info|get matches started | 
+2024-08-29 14:09:27.7230|Info|get matches ended | 
+2024-08-29 14:09:30.6714|Info|get matches started | 
+2024-08-29 14:09:30.6714|Info|get matches ended | 
+2024-08-29 14:09:30.6714|Info|get club started | 
+2024-08-29 14:09:30.6714|Info|get club ended | 
+2024-08-29 14:09:30.6714|Info|get club started | 
+2024-08-29 14:09:30.6714|Info|get club ended | 
+2024-08-29 14:09:30.6714|Info|get club started | 
+2024-08-29 14:09:30.6714|Info|get club ended | 
+2024-08-29 14:09:30.6714|Info|get club started | 
+2024-08-29 14:09:30.6714|Info|get club ended | 
+2024-08-29 14:09:39.4718|Info|get matches started | 
+2024-08-29 14:09:39.4718|Info|get matches ended | 
+2024-08-29 14:09:39.4718|Info|get club started | 
+2024-08-29 14:09:39.4718|Info|get club ended | 
+2024-08-29 14:09:39.4718|Info|get club started | 
+2024-08-29 14:09:39.4718|Info|get club ended | 
+2024-08-29 14:09:39.4718|Info|get club started | 
+2024-08-29 14:09:39.4718|Info|get club ended | 
+2024-08-29 14:09:39.4718|Info|get club started | 
+2024-08-29 14:09:39.4718|Info|get club ended | 
+2024-08-29 14:15:31.3109|Info|login started | 
+2024-08-29 14:15:31.8257|Info|login sucess | 
+2024-08-29 14:15:36.3617|Info|get matches started | 
+2024-08-29 14:15:36.3617|Info|get matches ended | 
+2024-08-29 14:15:36.3617|Info|get club started | 
+2024-08-29 14:15:36.3709|Info|get club ended | 
+2024-08-29 14:15:36.3709|Info|get club started | 
+2024-08-29 14:15:36.3709|Info|get club ended | 
+2024-08-29 14:15:36.3709|Info|get club started | 
+2024-08-29 14:15:36.3709|Info|get club ended | 
+2024-08-29 14:15:36.3709|Info|get club started | 
+2024-08-29 14:15:36.3709|Info|get club ended | 
+2024-08-29 14:16:17.9487|Info|login started | 
+2024-08-29 14:16:18.3388|Info|login sucess | 
+2024-08-29 14:16:23.9488|Info|get matches started | 
+2024-08-29 14:16:23.9488|Info|get matches ended | 
+2024-08-29 14:16:23.9488|Info|get club started | 
+2024-08-29 14:16:23.9488|Info|get club ended | 
+2024-08-29 14:16:23.9488|Info|get club started | 
+2024-08-29 14:16:23.9488|Info|get club ended | 
+2024-08-29 14:16:23.9488|Info|get club started | 
+2024-08-29 14:16:23.9488|Info|get club ended | 
+2024-08-29 14:16:23.9488|Info|get club started | 
+2024-08-29 14:16:23.9488|Info|get club ended | 
+2024-08-29 14:16:26.8879|Info|get matches started | 
+2024-08-29 14:16:26.8879|Info|get matches ended | 
+2024-08-29 14:16:26.8879|Info|get club started | 
+2024-08-29 14:16:26.8879|Info|get club ended | 
+2024-08-29 14:16:26.8879|Info|get club started | 
+2024-08-29 14:16:26.8879|Info|get club ended | 
+2024-08-29 14:16:26.8879|Info|get club started | 
+2024-08-29 14:16:26.8879|Info|get club ended | 
+2024-08-29 14:16:26.8879|Info|get club started | 
+2024-08-29 14:16:26.8879|Info|get club ended | 
+2024-08-29 14:16:49.9184|Info|login started | 
+2024-08-29 14:16:50.3342|Info|login sucess | 
+2024-08-29 14:16:52.7783|Info|get matches started | 
+2024-08-29 14:16:52.7783|Info|get matches ended | 
+2024-08-29 14:16:52.7783|Info|get club started | 
+2024-08-29 14:16:52.7783|Info|get club ended | 
+2024-08-29 14:16:52.7783|Info|get club started | 
+2024-08-29 14:16:52.7783|Info|get club ended | 
+2024-08-29 14:16:52.7783|Info|get club started | 
+2024-08-29 14:16:52.7783|Info|get club ended | 
+2024-08-29 14:16:52.7783|Info|get club started | 
+2024-08-29 14:16:52.7783|Info|get club ended | 
+2024-08-29 14:16:54.2905|Info|get club started | 
+2024-08-29 14:16:54.2905|Info|get club ended | 
+2024-08-29 14:16:54.2905|Info|get club started | 
+2024-08-29 14:16:54.2905|Info|get club ended | 
+2024-08-29 14:17:01.4776|Info|enter score started | 
+2024-08-29 14:17:01.4974|Info|enter score ended | 
+2024-08-29 14:17:08.8253|Info|get matches started | 
+2024-08-29 14:17:08.8253|Info|get matches ended | 
+2024-08-29 14:17:08.8253|Info|get club started | 
+2024-08-29 14:17:08.8253|Info|get club ended | 
+2024-08-29 14:17:08.8253|Info|get club started | 
+2024-08-29 14:17:08.8253|Info|get club ended | 
+2024-08-29 14:17:08.8253|Info|get club started | 
+2024-08-29 14:17:08.8253|Info|get club ended | 
+2024-08-29 14:17:08.8253|Info|get club started | 
+2024-08-29 14:17:08.8253|Info|get club ended | 
+2024-08-29 14:17:18.7120|Info|get matches started | 
+2024-08-29 14:17:18.7120|Info|get matches ended | 
+2024-08-29 14:17:18.7120|Info|get club started | 
+2024-08-29 14:17:18.7120|Info|get club ended | 
+2024-08-29 14:17:18.7120|Info|get club started | 
+2024-08-29 14:17:18.7120|Info|get club ended | 
+2024-08-29 14:17:18.7142|Info|get club started | 
+2024-08-29 14:17:18.7142|Info|get club ended | 
+2024-08-29 14:17:18.7142|Info|get club started | 
+2024-08-29 14:17:18.7142|Info|get club ended | 
+2024-08-29 14:18:47.7432|Info|login started | 
+2024-08-29 14:18:48.2001|Info|login sucess | 
+2024-08-29 14:18:50.0087|Info|get matches started | 
+2024-08-29 14:18:50.0138|Info|get matches ended | 
+2024-08-29 14:18:50.0138|Info|get club started | 
+2024-08-29 14:18:50.0138|Info|get club ended | 
+2024-08-29 14:18:50.0138|Info|get club started | 
+2024-08-29 14:18:50.0138|Info|get club ended | 
+2024-08-29 14:18:50.0138|Info|get club started | 
+2024-08-29 14:18:50.0138|Info|get club ended | 
+2024-08-29 14:18:50.0138|Info|get club started | 
+2024-08-29 14:18:50.0138|Info|get club ended | 
+2024-08-29 14:18:51.1868|Info|get club started | 
+2024-08-29 14:18:51.1868|Info|get club ended | 
+2024-08-29 14:18:51.1868|Info|get club started | 
+2024-08-29 14:18:51.1868|Info|get club ended | 
+2024-08-29 14:18:56.9033|Info|enter score started | 
+2024-08-29 14:18:56.9033|Info|enter score ended | 
+2024-08-29 14:18:59.1377|Info|get matches started | 
+2024-08-29 14:18:59.1377|Info|get matches ended | 
+2024-08-29 14:18:59.1377|Info|get club started | 
+2024-08-29 14:18:59.1377|Info|get club ended | 
+2024-08-29 14:18:59.1377|Info|get club started | 
+2024-08-29 14:18:59.1377|Info|get club ended | 
+2024-08-29 14:18:59.1377|Info|get club started | 
+2024-08-29 14:18:59.1377|Info|get club ended | 
+2024-08-29 14:18:59.1377|Info|get club started | 
+2024-08-29 14:18:59.1377|Info|get club ended | 
+2024-08-29 14:20:45.2136|Info|login started | 
+2024-08-29 14:20:45.6443|Info|login sucess | 
+2024-08-29 14:28:56.8481|Info|login started | 
+2024-08-29 14:28:57.4802|Info|login sucess | 
+2024-09-02 22:04:54.4723|Info|login started | 
+2024-09-02 22:04:55.1730|Info|login sucess | 

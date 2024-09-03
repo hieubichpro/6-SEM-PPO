@@ -1,0 +1,11 @@
+{
+  "App": {
+    "UseDB": "MongoDB"
+  },
+  "MongoDB": {
+    "ConnectionString": "mongodb://localhost:27017/"
+  },
+  "PostgreSQL": {
+    "ConnectionString": "Server=localhost;Database=PPO2024;Username=postgres;Password=123456789"
+  }
+}

@@ -1,0 +1,351 @@
+2024-08-31 16:24:34.0839|Info|login started | 
+2024-08-31 16:24:34.3190|Error|user doesn't exists | 
+2024-08-31 16:28:34.9511|Info|login started | 
+2024-08-31 16:28:35.1655|Info|login sucess | 
+2024-08-31 16:29:01.1873|Info|register started | 
+2024-08-31 16:29:01.2316|Info|register success | 
+2024-08-31 16:29:26.8897|Info|login started | 
+2024-08-31 16:29:27.0578|Info|login sucess | 
+2024-08-31 16:29:40.6098|Info|change info started | 
+2024-08-31 16:29:40.6500|Info|change info ended | 
+2024-08-31 16:29:49.8256|Info|delete started | 
+2024-08-31 16:29:49.8435|Info|delete ended | 
+2024-09-01 16:49:52.6989|Info|login started | 
+2024-09-01 16:49:52.9473|Error|user doesn't exists | 
+2024-09-01 16:51:53.4388|Info|login started | 
+2024-09-01 16:51:53.7059|Info|login sucess | 
+2024-09-01 16:52:15.8154|Info|insert club started | 
+2024-09-01 16:52:15.8677|Info|insert club ended | 
+2024-09-01 16:52:23.1361|Info|insert club started | 
+2024-09-01 16:52:23.1361|Info|insert club ended | 
+2024-09-01 16:52:31.2312|Info|insert club started | 
+2024-09-01 16:52:31.2312|Info|insert club ended | 
+2024-09-01 16:52:42.5757|Info|insert club started | 
+2024-09-01 16:52:42.5757|Info|insert club ended | 
+2024-09-01 16:53:34.6481|Info|register started | 
+2024-09-01 16:53:34.6543|Info|register success | 
+2024-09-01 16:53:38.6239|Info|login started | 
+2024-09-01 16:53:38.6239|Info|login sucess | 
+2024-09-01 16:54:17.9116|Info|read league started | 
+2024-09-01 16:54:17.9116|Info|read league ended | 
+2024-09-01 16:54:17.9116|Info|created league started | 
+2024-09-01 16:54:17.9210|Info|created league ended | 
+2024-09-01 16:54:33.5587|Info|read league started | 
+2024-09-01 16:54:33.5587|Info|read league ended | 
+2024-09-01 16:54:33.5587|Info|created league started | 
+2024-09-01 16:54:33.5587|Info|created league ended | 
+2024-09-01 18:40:04.1863|Info|login started | 
+2024-09-01 18:40:04.4269|Info|login sucess | 
+2024-09-01 18:40:11.7190|Info|login started | 
+2024-09-01 18:40:11.7190|Info|login sucess | 
+2024-09-01 18:40:26.6100|Info|get matches started | 
+2024-09-01 18:40:26.6100|Info|get matches ended | 
+2024-09-01 18:42:41.1444|Info|login started | 
+2024-09-01 18:42:41.3589|Info|login sucess | 
+2024-09-01 18:44:37.2611|Info|login started | 
+2024-09-01 18:44:37.4295|Info|login sucess | 
+2024-09-01 18:46:09.0394|Info|login started | 
+2024-09-01 18:46:09.2035|Info|login sucess | 
+2024-09-01 18:47:41.4003|Info|login started | 
+2024-09-01 18:47:41.5670|Info|login sucess | 
+2024-09-01 19:03:58.2271|Info|login started | 
+2024-09-01 19:03:58.4480|Info|login sucess | 
+2024-09-01 19:08:06.3014|Info|login started | 
+2024-09-01 19:08:06.5086|Info|login sucess | 
+2024-09-01 19:09:12.7587|Info|login started | 
+2024-09-01 19:09:12.9376|Info|login sucess | 
+2024-09-01 19:09:54.1254|Info|insert feedback started | 
+2024-09-01 19:09:54.1753|Info|insert feedback ended | 
+2024-09-01 19:13:24.2033|Info|login started | 
+2024-09-01 19:13:24.4729|Info|login sucess | 
+2024-09-01 19:13:49.9932|Info|get matches started | 
+2024-09-01 19:13:49.9992|Info|get matches ended | 
+2024-09-01 19:13:49.9992|Info|get club started | 
+2024-09-01 19:13:49.9992|Error|club doesnt exists | 
+2024-09-01 19:14:50.5901|Info|login started | 
+2024-09-01 19:14:50.7664|Info|login sucess | 
+2024-09-01 19:14:53.9858|Info|get matches started | 
+2024-09-01 19:14:53.9858|Info|get matches ended | 
+2024-09-01 19:14:53.9858|Info|get club started | 
+2024-09-01 19:14:53.9973|Error|club doesnt exists | 
+2024-09-01 19:16:37.5747|Info|login started | 
+2024-09-01 19:16:37.7922|Error|user doesn't exists | 
+2024-09-01 19:16:44.1877|Info|login started | 
+2024-09-01 19:16:44.3668|Info|login sucess | 
+2024-09-01 19:16:51.4888|Info|get matches started | 
+2024-09-01 19:16:51.4888|Info|get matches ended | 
+2024-09-01 19:16:51.4888|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.4978|Info|get club ended | 
+2024-09-01 19:16:51.4978|Info|get club started | 
+2024-09-01 19:16:51.5146|Info|get club ended | 
+2024-09-01 19:16:51.5146|Info|get club started | 
+2024-09-01 19:16:51.5146|Info|get club ended | 
+2024-09-01 19:16:51.5146|Info|get club started | 
+2024-09-01 19:16:51.5146|Info|get club ended | 
+2024-09-01 19:16:51.5146|Info|get club started | 
+2024-09-01 19:16:51.5146|Info|get club ended | 
+2024-09-01 19:16:51.5146|Info|get club started | 
+2024-09-01 19:16:51.5146|Info|get club ended | 
+2024-09-01 19:16:51.5146|Info|get club started | 
+2024-09-01 19:16:51.5146|Info|get club ended | 
+2024-09-01 19:16:51.5146|Info|get club started | 
+2024-09-01 19:16:51.5146|Info|get club ended | 
+2024-09-01 19:16:51.5146|Info|get club started | 
+2024-09-01 19:16:51.5146|Info|get club ended | 
+2024-09-01 19:16:51.5146|Info|get club started | 
+2024-09-01 19:16:51.5146|Info|get club ended | 
+2024-09-01 19:16:51.5146|Info|get club started | 
+2024-09-01 19:16:51.5146|Info|get club ended | 
+2024-09-01 19:16:53.7881|Info|get club started | 
+2024-09-01 19:16:53.7881|Info|get club ended | 
+2024-09-01 19:16:53.7881|Info|get club started | 
+2024-09-01 19:16:53.7881|Info|get club ended | 
+2024-09-01 19:17:02.4620|Info|enter score started | 
+2024-09-01 19:17:02.4771|Info|enter score ended | 
+2024-09-01 19:17:06.5842|Info|get matches started | 
+2024-09-01 19:17:06.5842|Info|get matches ended | 
+2024-09-01 19:17:06.5842|Info|get club started | 
+2024-09-01 19:17:06.5842|Info|get club ended | 
+2024-09-01 19:17:06.5842|Info|get club started | 
+2024-09-01 19:17:06.5842|Info|get club ended | 
+2024-09-01 19:17:06.5842|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:17:06.5893|Info|get club started | 
+2024-09-01 19:17:06.5893|Info|get club ended | 
+2024-09-01 19:18:45.2871|Info|login started | 
+2024-09-01 19:18:45.4429|Error|user doesn't exists | 
+2024-09-01 19:18:51.6661|Info|login started | 
+2024-09-01 19:18:51.8311|Info|login sucess | 
+2024-09-01 19:20:17.1781|Info|login started | 
+2024-09-01 19:20:17.3439|Info|login sucess | 
+2024-09-01 19:20:19.6499|Info|get matches started | 
+2024-09-01 19:20:19.6570|Info|get matches ended | 
+2024-09-01 19:20:19.6570|Info|get club started | 
+2024-09-01 19:20:19.6570|Info|get club ended | 
+2024-09-01 19:20:19.6570|Info|get club started | 
+2024-09-01 19:20:19.6570|Info|get club ended | 
+2024-09-01 19:20:19.6570|Info|get club started | 
+2024-09-01 19:20:19.6570|Info|get club ended | 
+2024-09-01 19:20:19.6570|Info|get club started | 
+2024-09-01 19:20:19.6570|Info|get club ended | 
+2024-09-01 19:20:19.6570|Info|get club started | 
+2024-09-01 19:20:19.6570|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:20:19.6668|Info|get club started | 
+2024-09-01 19:20:19.6668|Info|get club ended | 
+2024-09-01 19:24:17.1385|Info|login started | 
+2024-09-01 19:24:17.3233|Info|login sucess | 
+2024-09-01 19:56:45.1561|Info|login started | 
+2024-09-01 19:56:45.3691|Info|login sucess | 
+2024-09-01 19:56:51.7983|Info|login started | 
+2024-09-01 19:56:51.7983|Info|login sucess | 
+2024-09-01 19:56:55.1293|Info|get matches started | 
+2024-09-01 19:56:55.1293|Info|get matches ended | 
+2024-09-01 19:56:55.1293|Info|get club started | 
+2024-09-01 19:56:55.1293|Info|get club ended | 
+2024-09-01 19:56:55.1293|Info|get club started | 
+2024-09-01 19:56:55.1293|Info|get club ended | 
+2024-09-01 19:56:55.1293|Info|get club started | 
+2024-09-01 19:56:55.1293|Info|get club ended | 
+2024-09-01 19:56:55.1293|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:56:55.1357|Info|get club started | 
+2024-09-01 19:56:55.1357|Info|get club ended | 
+2024-09-01 19:57:13.2688|Info|insert club started | 
+2024-09-01 19:57:13.2688|Info|insert club ended | 
+2024-09-02 11:10:26.4962|Info|login started | 
+2024-09-02 11:10:27.6667|Info|login sucess | 
+2024-09-02 11:13:54.5860|Info|login started | 
+2024-09-02 11:13:55.2236|Info|login sucess | 
+2024-09-02 11:14:10.8180|Info|get matches started | 
+2024-09-02 11:14:10.8180|Info|get matches ended | 
+2024-09-02 11:14:10.8180|Info|get club started | 
+2024-09-02 11:14:10.8180|Info|get club ended | 
+2024-09-02 11:14:10.8180|Info|get club started | 
+2024-09-02 11:14:10.8180|Info|get club ended | 
+2024-09-02 11:14:10.8229|Info|get club started | 
+2024-09-02 11:14:10.8229|Info|get club ended | 
+2024-09-02 11:14:10.8229|Info|get club started | 
+2024-09-02 11:14:10.8229|Info|get club ended | 
+2024-09-02 11:14:12.6015|Info|get club started | 
+2024-09-02 11:14:12.6015|Info|get club ended | 
+2024-09-02 11:14:12.6015|Info|get club started | 
+2024-09-02 11:14:12.6045|Info|get club ended | 
+2024-09-02 11:14:17.1379|Info|enter score started | 
+2024-09-02 11:14:17.1379|Info|enter score ended | 
+2024-09-02 11:14:18.5114|Info|get club started | 
+2024-09-02 11:14:18.5114|Info|get club ended | 
+2024-09-02 11:14:18.5114|Info|get club started | 
+2024-09-02 11:14:18.5114|Info|get club ended | 
+2024-09-02 11:14:22.1683|Info|enter score started | 
+2024-09-02 11:14:22.1683|Info|enter score ended | 
+2024-09-02 11:15:07.3651|Info|register started | 
+2024-09-02 11:15:38.8704|Info|register started | 
+2024-09-02 11:15:38.8704|Info|register success | 
+2024-09-02 11:15:46.3535|Info|login started | 
+2024-09-02 11:15:46.3546|Error|user doesn't exists | 
+2024-09-02 11:16:05.9657|Info|login started | 
+2024-09-02 11:16:06.4955|Info|login sucess | 
+2024-09-02 11:18:17.0033|Info|login started | 
+2024-09-02 11:18:17.6560|Info|login sucess | 
+2024-09-02 11:18:29.6747|Info|login started | 
+2024-09-02 11:18:29.6747|Info|login sucess | 
+2024-09-02 11:24:06.0169|Info|login started | 
+2024-09-02 11:24:06.8332|Info|login sucess | 
+2024-09-02 11:24:53.2821|Info|login started | 
+2024-09-02 11:24:54.1246|Info|login sucess | 
+2024-09-02 11:25:29.1589|Info|get matches started | 
+2024-09-02 11:25:29.1589|Info|get matches ended | 
+2024-09-02 11:25:32.1647|Info|get matches started | 
+2024-09-02 11:25:32.1647|Info|get matches ended | 
+2024-09-02 11:25:32.1667|Info|get club started | 
+2024-09-02 11:25:32.1667|Info|get club ended | 
+2024-09-02 11:25:32.1667|Info|get club started | 
+2024-09-02 11:25:32.1667|Info|get club ended | 
+2024-09-02 11:25:32.1667|Info|get club started | 
+2024-09-02 11:25:32.1667|Info|get club ended | 
+2024-09-02 11:25:32.1667|Info|get club started | 
+2024-09-02 11:25:32.1667|Info|get club ended | 
+2024-09-02 11:26:29.7482|Info|login started | 
+2024-09-02 11:26:29.9979|Error|user doesn't exists | 
+2024-09-02 11:26:39.8654|Info|login started | 
+2024-09-02 11:26:40.1182|Info|login sucess | 

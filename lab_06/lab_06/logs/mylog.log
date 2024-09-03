@@ -1,0 +1,35 @@
+2024-08-27 23:03:16.8965|Info|login started | 
+2024-08-27 23:03:17.8156|Info|login sucess | 
+2024-08-27 23:04:12.3812|Info|login started | 
+2024-08-27 23:04:12.7906|Info|user doesn't exists | 
+2024-08-27 23:35:41.4484|Info|A guest was login | 
+2024-08-27 23:35:44.6319|Info|print schedule started | 
+2024-08-27 23:35:48.9064|Info|get matches started | 
+2024-08-27 23:35:49.4144|Info|get matches ended | 
+2024-08-27 23:35:49.4144|Info|getNameClubById started | 
+2024-08-27 23:35:49.4220|Info|getNameClubById started | 
+2024-08-27 23:35:49.4220|Info|getNameClubById started | 
+2024-08-27 23:35:49.4220|Info|getNameClubById started | 
+2024-08-27 23:35:49.4220|Info|print schedule ended | 
+2024-08-27 23:35:54.8094|Info|A guest was log out | 
+2024-08-28 12:25:20.3008|Info|A guest was login | 
+2024-08-28 12:25:26.2862|Info|A guest was log out | 
+2024-08-28 12:25:35.7409|Info|login started | 
+2024-08-28 12:25:36.6766|Info|login sucess | 
+2024-08-28 12:25:36.6766|Info|A refeeree was log in | 
+2024-08-28 12:25:52.8014|Info|enter score started | 
+2024-09-02 22:00:09.6073|Info|A guest was login | 
+2024-09-02 22:00:12.6986|Info|print clubs started | 
+2024-09-02 22:00:13.4886|Info|print clubs ended | 
+2024-09-02 22:00:16.2801|Info|print schedule started | 
+2024-09-02 22:00:18.3470|Info|get matches started | 
+2024-09-02 22:01:40.3608|Info|A guest was login | 
+2024-09-02 22:01:41.2577|Info|print clubs started | 
+2024-09-02 22:01:41.5946|Info|print clubs ended | 
+2024-09-02 22:01:42.5526|Info|print leagues started | 
+2024-09-02 22:01:42.5596|Info|print leagues ended | 
+2024-09-02 22:01:44.8273|Info|A guest was log out | 
+2024-09-02 22:01:49.9541|Info|login started | 
+2024-09-02 22:01:49.9642|Info|login sucess | 
+2024-09-02 22:01:49.9642|Info|A admin was log in | 
+2024-09-02 22:01:52.3582|Info|A admin was log out | 
